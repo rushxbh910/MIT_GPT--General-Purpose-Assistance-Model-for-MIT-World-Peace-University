@@ -16,11 +16,11 @@ MIT-GPT is an AI-powered assistant designed for students and staff at MIT World 
 ---
 
 ## 🧠 System Architecture
-![MIT-GPT Architecture](System_Architecture/MIT-GPT_SystemArchitecture.png)
+![MIT-GPT Architecture](D:\MIT_GPT_proj25\System Architecture\MIT-GPT_SystemArchitecture.png)
 
 ### 🔄 RAG Pipeline
 ```
-User Question → Vector DB Retrieval (ChromaDB) → Injected into Prompt → Local LLM (Mistral via LlamaCpp) → Response
+User Question → Vector DB Retrieval (ChromaDB) → Injected into Prompt → Local LLM (llama2) → Response
 ```
 
 1. **Data Source**: CSV file with MIT-WPU question-answer pairs
