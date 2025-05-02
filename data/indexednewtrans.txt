@@ -1,0 +1,445 @@
+question             answer                                                              category
+                     CGPA is seen on the grade card. The CGPA count can be verified by
+What if I need to    referring to the passing criteria mentioned in Exam Ordinance
+know my correct      2020(https://mitwpu.edu.in/examination/images/documents/Examination
+CGPA?                Ordinances 2020.pdf)                                                grade card
+I have cleared my
+backlog but the
+result sheet does not
+show GPA and            GPA and CGPA are not mentioned on backlog grade cards. GPA,
+CGPA. Why?             CGPA will be highlighted on regular trimester grade card only.             grade card
+I have cleared my
+backlog, but the
+result on ERP is not
+updated .It still
+shows earlier
+CGPA.As a result, it
+is affecting my
+CGPA of next            Grade card shows first attempt GPA and CGPA only. Hence, even if
+trimesters also. How you have cleared backlog, improved CGPA for that trimester will not be
+do I get it corrected? seen on grade card.                                                        grade card
+                       Grade cards should be collected from the student section of your
+                       Department. If your grade card is not available at the student section
+                       then you must fill the student assistance form
+                       (https://mitwpu.edu.in/imaqes/documents/Student-Assistant-Form.pdf)
+What do I do if I      at Department of Examination and get the remark from the student
+have not received      section on it and submit to Examination Department.Corrections on
+my grade card?         grade card /PDC                                                            grade card
+My name/Father's        Name correction on grade cards/PDC needs to be done in ERP at the
+Name/Mother's          office of student section of your Department. Kindly contact the office of
+name is incorrect on student section for the making the required corrections in ERP.              Corrections
+grade card. How do I Moreover, student must check his/her personal details from time to time on grade
+get it corrected?      in their ERP login.                                                        card /PDC
+                        Once the required corrections are done in ERP, You can apply for
+                       corrected grade cards by filling and sending the student assistance form
+                       (https://mitwpu.edu.in/imaoes/documents/Student-Assistant-Form.pdf)
+                       having verification remark from student section along with scan copies
+                       of grade cards and screenshot of grade card in ERP that reflects the
+                       required corrections to exam.helpdesk@mitwpu.edu.in. In the assistant
+How can I get a new form, clearly mention details of grade cards in which corrections are         Corrections
+copy of corrected      required (i.eTrimester no., Regular/Backlog, Month & Year).Submit the on grade
+grade cards?           original grade cards at Department for Examination.                        card /PDC
+From where should I                                                                               Corrections
+collect the corrected You have to collect the corrected grade cards/PDC from Department of on grade
+grade cards/PDC? Examination.                                                                     card /PDC
+In how many days
+will I get the         Processing of correction on grade cards will take minimum 4 working Corrections
+corrected grade        days after you submit all the required documents at the Department of on grade
+cards?                 Examination.Exam Form Issues                                               card /PDC
+Do I need to submit
+an Exam form for the                                                                              Exam Form
+end term exam?          Yes, it is necessary to fill exam form for every end term exam.           Issues
+I have an internal
+backlog, do I need to
+submit an exam                                                                                    Exam Form
+form?                   Yes, it is necessary to fill exam form for internal backlog also.         Issues
+I have paid all my
+outstanding fees, do
+I still have to submit You are required to submit an exam form. There is no connection            Exam Form
+the exam form?         between outstanding fees and an exam form.                                 Issues
+How can I know          After you fill and submit the exam form, you should download the PDF
+whether I have an of your application which shows you the details of subjects you applied
+internal backlog or for, as well as, whether you have to appear for internal or external or       Exam Form
+external backlog?      both for the mentioned subjects.                                           Issues
+What if I was unable It is mandatory to fill the exam form within the stipulated time only.
+to fill the exam form Under any circumstances, you will not be allowed to fill exam form after Exam Form
+in time?               the date for exam form filling is over.                                    Issues
+Do I have to pay
+exam fees for
+regular and backlog No Regular and Backlog fees have to be paid together.Examination              Exam Form
+separately?            related queries (Applicable for Offline End Term Exam)                     Issues
+                                                                                                  Examination
+                                                                                                  related
+                                                                                                  queries
+                        Select Exam, Course Year and Click on Show. Submit the application (Applicable
+                       and take printout of your exam application form. Submit the print along for Offline
+How to fill an         with complete exam fees (regular + backlog as applicable) to student End Term
+Examination form? section. Save the receipt.                                                      Exam)
+                                                                                                Examination
+                                                                                                related
+                                                                                                queries
+                                                                                                (Applicable
+                                                                                                for Offline
+I have not got my    Probable reasons1) Student has not filled exam form.2) Subject             End Term
+hall ticket. What    Mapping might not be done from Institute.3) Any other technical            Exam)
+should I do?         error.Contact Department of Examination for clarification.
+                                                                                                  Examination
+                                                                                                  related
+I have lost my hall                                                                               queries
+ticket. What is the                                                                               (Applicable
+process for obtaining                                                                             for Offline
+a duplicate hall ticket                                                                           End Term
+?                       Fill the student assistance form and pay fine at Exam Department.         Exam)
+                                                                                                  Examination
+                                                                                                  related
+                                                                                                  queries
+My photograph is not                                                                              (Applicable
+seen on hall ticket.                                                                              for Offline
+What do I need to       Paste I-Card size photograph on hall ticket and get it duly attested from End Term
+do?                     Department of Examination.                                                Exam)
+                                                                                                  Examination
+The course for which                                                                              related
+I have to appear for,                                                                             queries
+is not seen in the hall                                                                           (Applicable
+ticket. Please tell                                                                               for Offline
+what should be                                                                                    End Term
+doneâ€                  Contact Examination Department for clarification.Result related queries Exam)
+My result is not
+visible on ERP. It
+says Result is
+withheld. Contact
+Examination              This message occurs because your result is withheld due to non-          Result
+Department. What is submission of eligibility documents, outstanding fees, etc. You need to related
+the reason?             contact student section for further clarification.                        queries
+I have paid my
+instalment. Yet, why                                                                              Result
+is my result            Your result may be withheld for any administrative issue. Contact         related
+withheld?               student section for clarification.                                        queries
+                                                                                                  Result
+When will I get my Your result will be seen in ERP only after a release order is received         related
+result in ERP?          from the student section.                                                 queries
+I received my result
+and have been given
+Grade F in a subject.
+How can I know the
+external marks                                                                                    Result
+obtained in the         Mail your query to exam.helpdesk@mitwpu.edu.in and attach                 related
+subject?                screenshot of result.                                                     queries
+                                                                                                  Rechecking
+                                                                                                  and
+I want to give my                                                                                 Revaluation
+paper for re-                                                                                     (Applicable
+checking/revaluation.                                                                             for Offline
+What is the                                                                                       End-Term
+procedure?              There is no rechecking/revaluation for online exams.                      Exams)
+How can I know my Mail your query details to exam.helpdesk@mitwpu.edu.in for knowing
+internal and external the external marks in the mentioned subject. For your internal marks, Result
+marks obtained in a contact subject teacher.Rechecking and Revaluation (Applicable for            related
+particular subject? Offline End-Term Exams)                                                       queries
+                                                                                                  Rechecking
+                                                                                                  and
+                                                                                                  Revaluation
+What is the                                                                                       (Applicable
+procedure to obtain aPay the required fee at Department of Examination and fill student           for Offline
+photocopy of answer assistance form. Photocopy will be made available within two days             End-Term
+booklet?                when revaluation dates are declared.                                      Exams)
+                                                                                                  Rechecking
+                                                                                                  and
+                                                                                                  Revaluation
+What is the process                                                                               (Applicable
+of revaluation ? How In student module, Click on University examination. Select application for Offline
+to upload the form form and enter necessary information. Take printout of your application End-Term
+and pay fees?           form and payment done and submit it to student section.                   Exams)
+                                                                                                Rechecking
+                                                                                                and
+                                                                                                Revaluation
+                                                                                                (Applicable
+How to apply for                                                                                for Offline
+revaluation and                                                                                 End-Term
+retotalling?            In student module, select University Examination, click on application, Exams)
+                       Mention exam typeand exam.
+                                                                                                Rechecking
+                                                                                                and
+                                                                                                Revaluation
+                                                                                                (Applicable
+Where should I                                                                                  for Offline
+submit the                                                                                      End-Term
+revaluation fee?       Fees to be paid online in ERP.                                           Exams)
+                                                                                                Rechecking
+                                                                                                and
+                                                                                                Revaluation
+                                                                                                (Applicable
+When will the                                                                                   for Offline
+revaluation results Revaluation result will be declared after 12 Days from application of       End-Term
+be declared?           revaluation.                                                             Exams)
+                                                                                                Rechecking
+                                                                                                and
+I have already paid                                                                             Revaluation
+the revaluation fees.                                                                           (Applicable
+But in ERP, it is seen                                                                          for Offline
+as outstanding. WhatThe amount must have been deducted against any other outstanding End-Term
+is the reason?         fee. Contact student section for clarification.                          Exams)
+                                                                                                Rechecking
+I have to apply for                                                                             and
+revaluation but                                                                                 Revaluation
+subject is not seen in                                                                          (Applicable
+re-evaluation list.     Either the student was absent for that particular subject or result is  for Offline
+What could be the withheld from student section, hence subject shall not be seen in the         End-Term
+reason?                revaluation list.                                                        Exams)
+                                                                                                Rechecking
+                                                                                                and
+Why is it that the                                                                              Revaluation
+payment done for                                                                                (Applicable
+revaluation not being                                                                           for Offline
+reflected on my ERP                                                                             End-Term
+payment section?       Contact student section for clarification                                Exams)
+How do I apply for                                                                              Provisional
+Provisional Degree You don't have to apply separately for a Provisional Degree Certificate. Degree
+Certificate?           It will be issued after you have successfully completed your course.     Certificate
+From where and
+when should I collect Provisional Degree Certificate will be given from the student section     Provisional
+the Provisional        after 15 days from date of declaration of your final trimester           Degree
+Degree Certificate? result.Duplicate Grade Card                                                 Certificate
+I have lost my grade
+card? Can I get
+another copy of         Grade card is issued only once. In case, you have lost your grade card, Duplicate
+grade card?            you can apply for a duplicate grade card only.                           Grade Card
+                        You have to fill and submit application form for issuing of duplicate
+                       grade card which is available on the
+How do I apply for a website(https://mitwpu.edu.in/images/documents/Application-for-Issue-
+duplicate grade        of- Duplicate-Grade-Card.pdf) along with the necessary documents         Duplicate
+card?                  mentioned in the form, in original, as well as the receipt of payment.   Grade Card
+What documents are
+required while
+applying for the
+duplicate grade         FIR copy, Affidavit on Rs.100/- stamp paper giving details and receipt Duplicate
+card?                  of fee for duplicategrade card.                                          Grade Card
+What are the
+charges for obtaining
+a duplicate grade                                                                               Duplicate
+card?                  Fee of Rs.500/- + Rs. 100/- per trimester grade card.                    Grade Card
+What is the mode of
+payment for            You must pay online. Payment details are mentioned on website
+Duplicate grade        (https://mitwpu.edu.in/examination). Send the screenshot of payment to Duplicate
+card?                  exam.helpdesk@mitwpu.edu.in.                                             Grade Card
+When and how will I
+receive the duplicate You will have to collect it from Department of Examination after 15 days Duplicate
+grade card?            of application.                                                          Grade Card
+                        Once you have obtained a duplicate in place of a lost document,
+                       always use the duplicate document. If the original document is found,
+                       return it to WPU. Do not use thefound original document after it has
+                       been replaced by a duplicate because of the following reasons:1) When
+If I find the original a document is replaced by a duplicate, the original is marked as lost in
+document after I       the WPU database. The data of the duplicate document is entered into
+obtain the duplicate, the database. 2) If a document that is marked as lost is sent to WPU for
+can I use the          verification, it will be reported as lost and therefore not              Duplicate
+originalone?           genuine.Consolidated Grade Card                                          Grade Card
+Can I get backlog
+and regular result on                                                                            Consolidated
+a single grade card? Yes, you can apply for a consolidated grade card.                           grade card
+What is a              A consolidated grade card will show consolidated result of a trimester
+consolidated grade (Regular & cleared backlog together).It shows revised GPA for that            Consolidated
+card?                 trimester. However, note that CGPA is not mentioned.                       grade card
+How is a
+Consolidated Grade Consolidated grade card shows revised result of only one trimester with
+Card different from a revised GPA where as a transcript is a document that includes updated Consolidated
+transcript?           results of all trimesters with revised GPA and CGPA trimester wise.        grade card
+                      You have to fill and submit application form for issuing of consolidated
+                      grade card which is available on the website
+                      (https://mitwpu.edu.in/images/documents/Application-for- Issue-of-
+How do I apply for a Consolidated-Grade-Card.pdf )aIong with the necessary documents
+consolidated grade mentioned in the form and screenshot of payment to                            Consolidated
+card?                 exam.helpdesk@mitwpu.edu.in                                                grade card
+What documents are
+required while
+applying for the       Application form for consolidated grade card, scan copy of regular and
+consolidated grade backlog grade cards of trimester for which consolidated grade card is Consolidated
+card?                 required.                                                                  grade card
+What are the
+charges for obtaining
+a consolidated grade                                                                             Consolidated
+card?                 Processing fee for one consolidated grade card is Rs.200/-                 grade card
+What is the mode of You must pay online. Payment details are mentioned on website
+payment for           (https://mitwpu.edu.in/examination). Send the screenshot of payment to
+consolidated grade exam.helpdesk@mitwpu.edu.in.Q When and how will I receive the                 Consolidated
+card?                 consolidated grade card?                                                   grade card
+I need to submit a
+Course completion
+certificate in my     You must fill the student assistance form.                                 Course
+Company. What is (https://mitwpu.edu.in/images/documents/Student-Assistant-Form.pdf) completion
+theprocedure?         and mail to exam.helpdesk@mitwDu.edu.in                                    certificate
+In how many days,                                                                                Course
+can I get the         The course completion certificate will be issued after minimum 5           completion
+Certificate?          working days from date of application.                                     certificate
+Will I get a soft      The soft copy of the Certificate will be provided, only if required. You Course
+copy/hard copy of     must collect the hard copy from Department of Examination within a         completion
+the Certificate?      week after it is ready.Bonafide Certificate                                certificate
+I require a Bonafide
+certificate. What is You should fill the student assistance form
+the procedure to      (https://mitwpu.edu.in/images/documents/Student-Assistant-Form.pdf) Bonafide
+obtain it ?           and mail to exam.helpdesk@mitwpu.edu.in                                    certificate
+In how many days,
+can I get the         Processing of Bonafide certificate requires minimum 5 working days         Bonafide
+Bonafide Certificate? from date of application.                                                  certificate
+Will I get a soft
+copy/hard copy of      The soft copy of Bonafide certificate will be provided, only if required.
+the Bonafide          You must collect the hard copy from Department of Examination within Bonafide
+Certificate?          a week after it is ready.Medium of Instruction Certificate                 certificate
+I require a letter
+stating that medium
+of instruction for my You can apply for â€˜Medium of Instructionâ€™ Certificate.. Fill student
+course was English. assistance form and mail to exam.helpdesk@mitwpu.edu.in. Student Medium of
+What is the           assistance form is available on the website.                               Instruction
+procedure?            (https://mitwpu.edu.in/images/documents/Student-Assistant-Form.pdf) Certificate
+In how many days,
+can I get the
+â€˜Medium of
+Instructionâ€™        Letter of â€˜Medium of Instructionâ€™ will be issued after minimum 5 Medium of
+Certificate?          working days from date of application.                                     Instruction
+Will I get a soft
+copy/hard copy of
+the Medium of          Soft copy will be provided, if required. You must collect the hard copy
+Instruction           from Department of Examination within a week after it is                   Medium of
+Certificate?          ready.Equivalent Percentage Certificate                                    Instruction
+                      The Certificate for Equivalent Percentage is available on website
+How do I apply for    (https://mitwpu.edu.in/images/documents/EQUIVALENT-
+Equivalent            PERCENTAGE-CONVERSION- CERTIFICATE.pdf) Fill it correctly and Equivalent
+Percentage            neatly and mail it to exam.helpdesk@mitwpu.edu.in along with scan Percentage
+Certificate?          copy of recent trimester grade card.                              Certificate
+In how many days,
+can I get the
+Equivalent                                                                                        Equivalent
+Percentage            Equivalent Percentage Certificate will be issued after minimum 5            Percentage
+Certificate?          working days from date of application.                                      Certificate
+Will I get a soft      Soft copy of Equivalent Percentage Certificate will be provided, if
+copy/hard copy of     required. You must collect the hard copy from Department of
+the Equivalent        Examination within a week after it is ready.Trimester to Semester
+Percentage            Conversion CertificateQ.I require trimester to semester marksheet           Equivalent
+Certificate?          conversion certificate? What is the procedure?                              Percentage
+                                                                                                  Certificate
+What documents are
+required for applying Documents required are scan copy of grade cards of the year for which Trimester to
+for a trimester to    conversion is required, student assistance form                              semester
+semester conversion (https://mitwpu.edu.in/imapes/documents/Student- Assistant-Form.pdf conversion
+certificate?          and receipt of payment done for conversion certificate.                      certificate
+What are the
+charges for trimester                                                                              Trimester to
+to semester                                                                                        semester
+conversion            The processing charges for one trimester to semester conversion              conversion
+certificate?          certificate are Rs.250/-                                                     certificate
+What is the mode of
+payment for trimester                                                                              Trimester to
+to semester           Do online payment. The payment details are mentioned on the website. semester
+conversion            (https://mitwpu.edu.in/examination/contact).Mail screenshot of payment conversion
+certificate?          to exam.helpdesk@mitwpu.edu.in                                               certificate
+In how many days
+can I get the                                                                                      Trimester to
+trimester to semesterThe processing of trimester to semester conversion certificate takes          semester
+conversion            minimum 5 working days from date of application with all required            conversion
+certificate?          documents.                                                                   certificate
+From where do I
+collect the trimester                                                                              Trimester to
+to semester           You should collect the trimester to semester conversion certificate from semester
+conversion            Department of Examination within a week after it is ready.Official           conversion
+certificate?          Transcript                                                                   certificate
+                      An official transcript is an authentic document that includes updated
+What is an official   results of all trimesters declared till date of application and it is signed
+transcript?           by the Controller of Examinations.                                           Transcript
+                       The documents required for applying for a transcript are scan copy of
+                      recent trimester grade card, application form for issuing of transcript
+                      which is available on the website
+What documents are (https://mitwpu.edu.in/images/documents/Application-for-Issue-of-
+required for applying Official-Transcript.pdf) and receipt of payment done for transcript
+for a transcript?     processing.                                                                  Transcript
+                      Send screenshot of payment for transcript along with the application
+                      form (https://mitwpu.edu.in/images/documents/Application-for-Issue-of-
+How do I apply for a Official-Transcript.pdf) and scan copy of recent trimester grade card to
+transcript?           exam.helpdesk@mitwpu.edu.in.                                                 Transcript
+What are the
+charges for applying The processing charges for transcript are Rs.200/- for one copy of
+for an official       transcript. If the transcript is to be sent on postal address then additional
+transcript?           postal charges of Rs.100/- for each copy of transcript.                      Transcript
+What is the mode of Do online payment for transcript. The payment details are mentioned on
+payment for a         the website.(https://mitwpu.edu.in/examination/contact). Send the
+transcript?           screenshot of payment to exam.helpdesk@mitwpu.edu.in                         Transcript
+In how many days
+can I receive the
+transcript after      Processing of transcript takes minimum 5 working days from date of
+application?          application with all required documents.                                     Transcript
+                       Soft copy of the transcript will be sent, only if required. You should
+                      collect the hard copy of the transcript from Department of Examination
+                      within 15 days, after it is ready. Bring your identity proof and payment
+Will I get a soft     receipt. If you have paid postal charges, then it will be sent by speed
+copy/hard copy of     post at the address mentioned in application form. Transcripts are sent
+the transcript?       in a sealed envelope. (One Transcript per envelope)                          Transcript
+Why are transcripts
+sent in sealed and This is done in order to assure the recipient of the document that the
+signed envelope?      transcript is genuine.                                                       Transcript
+                       Postal charges to Canada Rs.1600/-. Do payment online .Payment
+I want the University details mentioned on website.
+to send the transcript (https://mitwpu.edu.in/examination/contact). Send duly filled WES form
+to WES, Canada ? and WES reference number and send screenshot of payment to                   MITSOB
+What is the            exam.helpdesk@mitwpu.edu.in.MITSOB Transcripts to WESQs. I am a Transripts to
+procedure for it?      student of MITSOB. I want a transcript. What is the procedure?         WES
+What are the           Processing charges for MITSOB transcript differ batchwise. Send mail toMITSOB
+charges for            exam.helpdesk@mitwpu.edu.in and mention your Batch and PR No. WeTransripts to
+transcript?            will convey the charges accordingly                                    WES
+How should I do the You must pay online for the transcript. Payment details are mentioned MITSOB
+payment for MITSOBon website (https://mitwpu.edu.in/examination). Send the screenshot of Transripts to
+transcript?            payment to exam.helpdesk@mitwpu.edu.in.                                WES
+I want the University
+to send the transcript The postal charges to Canada Rs.1600/-. Do payment online .Payment
+to WES, Canada ? details are mentioned on the website. Send duly filled WES form and MITSOB
+What is                reference number and send the screenshot of payment to                 Transripts to
+theprocedure?          exam.helpdesk@mitwpu.edu.in.                                           WES
+How much time will it                                                                        MITSOB
+take to process the Transcript processing takes 8 days after receipt of application with all Transripts to
+transcript?           required documents                                                     WES
+                                                                                             MITSOB
+How do I collect the  Transcript can be collected from Department of Examination or it can beTransripts to
+MITSOB transcript?    sent at your postal address.                                           WES
+What are the postal   Postal charges (within India only ) for MITSOB transcript are Rs.500/-
+charges for MITSOB    .You must do online payment. The payment details are mentioned on MITSOB
+transcript? How do I  the website. Send screenshot of payment to                             Transripts to
+do the payment ?      exam.helpdesk@mitwpu.edu.inREFUND QUERIES                              WES
+I have paid exam
+fees twice. How do I Send an application to exam.helpdesk@mitwpu.edu.in along with Bank
+apply for refund of Details (Name, Bank Name, Branch, Account number, IFSC code) and Refund
+the exam fees?         transaction details as well as screenshots of a cancelled cheque .         Queries
+I have done excess Send an application to exam.helpdesk@mitwpu.edu.in along with Bank
+payment for            Details (Name, Bank Name. Branch, Account number, IFSC code) and
+transcript. How can I screenshots of cancelled cheque and transaction details.Degree              Refund
+get refund?            Certificate                                                                Queries
+Is it compulsory to
+register for the        Yes, it is compulsory to register for Convocation as per instructions and Degree
+Convocation ?          payment of registration fees.                                              Certificate
+Can I collect my
+Degree Certificate, in
+person? From where Yes, you may collect your Degree Certificate from Department of                Degree
+should I collect it ? Examination.                                                                Certificate
+                        Yes, that is permissible, provided you send authority letter 2 days in
+Can any of my family advance to Department of Examination via mail to
+member collect         exam.helpdesk@mitwpu.edu.inwith attachment of identity proof of
+Degree Certificate person who will be collecting your Degree on your behalf. Inform               Degree
+on my behalf?          concerned person to bring his or her original identity proof.              Certificate
+I have registered and
+attended
+Convocation.
+However, due to
+some documents          At first, you must complete the formalities related to issues pending at
+pending from my        your end. Then fill student assistance form
+end, I had not         (https://mitwDu.edu.in/images/documents/Student-Assistant- Form.pdf)
+received my Degree and get clearance (No Dues) remark from the student section on it and
+Certificate? How do I then submit the assistant form at Department of Examination.AttestationDegree
+proceed?               of Grade Cards                                                             Certificate
+                       You have to fill the student assistance form
+I need a set of grade (https://mitwpu.edu.in/imapes/documents/Student-Assistant-Form.pdf) Attestation
+cards attested? How and bring xerox copies of your grade cards for attestation along with         of Grade
+do I proceed?          original grade cards for verification                                      Cards
+                                                                                                  Attestation
+Can I get my result                                                                               of Grade
+on ERP attested?       No. Results on ERP will not be attested.                                   Cards
+                                                                                                  Attestation
+In how many days                                                                                  of Grade
+can I get it attested? You will get the grade cards attested in 2 working days.                   Cards
+
