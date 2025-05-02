@@ -16,7 +16,7 @@ MIT-GPT is an AI-powered assistant designed for students and staff at MIT World 
 ---
 
 ## 🧠 System Architecture
-![MIT-GPT Architecture](System_Architecture/MIT_GPT_System_Architecture.png)
+![MIT-GPT Architecture](system_architecture/mit_gpt_system_architecture.png)
 
 ### 🔄 RAG Pipeline
 ```
